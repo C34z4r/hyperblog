@@ -1,6 +1,24 @@
 body
 {
-    color: royalblue;
-    text-align: center;
+    color: salmon;
+    text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    margin: 0%;
+    padding: 0%;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid sandybrown;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+
 }
